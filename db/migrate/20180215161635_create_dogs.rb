@@ -5,7 +5,11 @@ class CreateDogs < ActiveRecord::Migration
   #     t.string :breed
   #   end
   # end
+<<<<<<< HEAD
   #
+=======
+  # 
+>>>>>>> caea5595526d0bc745b7ac504f4ea25b2b6a5837
   # def down
   #   drop_table :dogs
   # end
